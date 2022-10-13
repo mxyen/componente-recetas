@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/componente-recetas/static/css/main.ca6035b6.css",
+    "main.js": "/componente-recetas/static/js/main.0a886847.js",
+    "index.html": "/componente-recetas/index.html",
+    "main.ca6035b6.css.map": "/componente-recetas/static/css/main.ca6035b6.css.map",
+    "main.0a886847.js.map": "/componente-recetas/static/js/main.0a886847.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca6035b6.css",
+    "static/js/main.0a886847.js"
+  ]
+}
